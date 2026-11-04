@@ -1,0 +1,72 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0;
+    background-color: #1b211a;
+    min-height: 100vh;
+    color: #f5f5f5;
+    font-size: 16px;
+}
+
+header {
+    background-color: rgb(239, 181, 38);
+    padding: 8px;
+    text-align: center;
+    border: 2px solid black;
+    color: #1b211a;
+}
+
+.marsha {
+    color: #1b211a;
+
+}
+
+.urso {
+    color: #1b211a;
+  
+}
+
+.ok {
+    color: #f5f5f5;
+}
+main {
+    display: flex;
+    text-align: center;
+    border: 2px solid black;
+    flex-direction: column;
+    align-items: center;
+
+    }
+
+form {
+    background-color:#f5f5f5;
+    padding: 20px;
+    border: 2px solid black;   
+    flex-direction: column;
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+
+
+.fazul {
+    list-style: none;
+    padding: 5px;
+    margin: 0;
+}
+
+.botao {
+    background-color: #1b211a;
+    color: #f5f5f5;
+    padding: 9px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: rgb(239, 181, 38);
+    color: #1b211a;
+    padding: 3px;
+    text-align: center;
+    border: 2px solid black;
+}

@@ -1,0 +1,66 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0;
+    background-color: #1b211a;
+    min-height: 100vh;
+    color: rgb(245, 245, 245);
+    font-size: 16px;
+}
+
+header {
+    display: flex;
+     justify-content: space-between;
+     margin: 0px;
+     border: #f6f6f6 solid 1px;
+}
+
+a {
+    color: #1b211a;
+}
+
+h1 {
+    justify-content:space-between;
+    padding: 60px;
+    font-size:48px;
+}
+
+h2 {
+    text-align:left;
+}
+
+#one {
+    display: flex;
+    justify-content: center;
+
+}
+
+.four{
+    text-align: center;
+}
+
+#two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+}
+.Preço {
+    font-weight: bold;
+}
+
+.button {
+    background-color:rgb(239 181 38);
+    color: #1b211a;
+    padding: 9px;
+    cursor:pointer;
+     
+}
+
+     footer {
+    padding: 100px;
+    text-align: center;
+
+}
+
